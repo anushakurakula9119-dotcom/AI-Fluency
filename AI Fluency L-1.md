@@ -51,6 +51,23 @@ What do you want from this course?
 **AI Fluency** = working with AI effectively, efficiently, ethically, safely.
 The course teaches lasting skills, not temporary tricks.
 The core framework is the 4Ds: Delegation, Description, Discernment, Diligence.
+
+**1. WHAT YOU NEED**
+Skills · Knowledge · Insights · Values
+Your capabilities and understanding.
+
+**2. HOW YOU WORK WITH AI**
+Delegation · Description · Discernment · Diligence
+Your interaction approach.
+
+**3. HOW YOU COLLABORATE WITH AI**
+Automation · Augmentation · Agency
+The human–AI working relationship.
+
+**4. HOW GOOD AI USE SHOULD BE**
+Ethical · Efficient · Effective · Safe
+The qualities and principles of responsible AI use.
+
 It’s about human-AI collaboration, not only AI technology.
 
 Next lesson: why AI Fluency matters, plus three ways people work with AI (Automation, Augmentation, Agency).
